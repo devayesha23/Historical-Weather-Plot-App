@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 params = {
-    'access_key': '836da367eee2299450ab26e2784cd900',  # Replace with your actual API key
+    'access_key': 'YOUR_API_KEY',  # Replace with your actual API key
     'query': 'New York',
     'historical_date': '2015-01-21',
     'hourly': '1'
